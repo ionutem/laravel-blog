@@ -1,3 +1,3 @@
 # LARAVEL BLOG
 
-Acesta este primul meu proiect realizat in laravel. A fost realizat in perioada de training de la un loc de munca, urmand un tutorial de pe Laracasts.
+This is my first project made in Laravel. It was made during my training period at a job, following a tutorial on Laracasts.
